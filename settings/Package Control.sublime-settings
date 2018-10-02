@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Package Control",
+		"SideBarEnhancements",
+		"TypeScript",
+		"Vue Syntax Highlight"
+	]
+}
